@@ -331,6 +331,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.pennapps.sparechange;
 				PRODUCT_NAME = SpareChange;
+				VALID_ARCHS = "arm64 arm64e";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Profile;
@@ -461,6 +462,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.pennapps.sparechange;
 				PRODUCT_NAME = SpareChange;
+				VALID_ARCHS = "arm64 arm64e";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -485,6 +487,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.pennapps.sparechange;
 				PRODUCT_NAME = SpareChange;
+				VALID_ARCHS = "arm64 arm64e";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
